@@ -171,7 +171,7 @@
   },
   "primaryTokenAttribute": "hits",
   "url": "https://github.com/giro-dev/foundryvtt-dee-sanction",
-  "manifest": "https://raw.githubusercontent.com/giro-dev/foundryvtt-dee-sanction/master/src/system.json",
-  "download": "https://raw.githubusercontent.com/giro-dev/foundryvtt-dee-sanction/master/package/dee-v6.1.0.zip",
+  "manifest": "https://github.com/giro-dev/foundryvtt-dee-sanction/releases/latest/download/system.json",
+  "download": "https://github.com/giro-dev/foundryvtt-dee-sanction/releases/download/v6.1.0/dee-v6.1.0.zip",
   "license": "LICENSE.txt"
 }

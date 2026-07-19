@@ -1,0 +1,52 @@
+name: Release
+
+# Build the system package and publish it as a GitHub Release whenever a
+# version tag (e.g. v6.1.0) is pushed. The release contains the compiled
+# system.json and the dee-v<version>.zip package that Foundry installs from.
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Derive version from tag
+        id: version
+        run: |
+          VERSION="${GITHUB_REF_NAME#v}"
+          echo "value=${VERSION}" >> "$GITHUB_OUTPUT"
+          echo "zip=package/dee-v${VERSION}.zip" >> "$GITHUB_OUTPUT"
+
+      - name: Set version and release URLs
+        run: node tools/set-version.mjs "${{ steps.version.outputs.value }}"
+
+      - name: Build
+        run: npx gulp build
+
+      - name: Package
+        run: npx gulp package
+
+      - name: Publish GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          name: v${{ steps.version.outputs.value }}
+          files: |
+            ${{ steps.version.outputs.zip }}
+            dist/system.json
+          fail_on_unmatched_files: true
