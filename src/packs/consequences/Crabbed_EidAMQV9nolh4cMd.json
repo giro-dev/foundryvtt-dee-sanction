@@ -1,9 +1,9 @@
 {
-  "name": "Crabbed",
+  "name": "Malcarat",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "prone to sharp changes in emotional state; short-tempered, sharp, and loud",
+    "description": "propens a canvis bruscos d'estat d'ànim; irascible, tallant i sorollós",
     "resource": "int",
     "potency": -1
   },

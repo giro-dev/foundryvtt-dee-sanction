@@ -1,8 +1,8 @@
 {
-  "name": "Skip",
+  "name": "Saltironar",
   "type": "favour",
   "system": {
-    "description": "<p>Excited, Leaping.</p>"
+    "description": "<p>Excitat, saltant.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

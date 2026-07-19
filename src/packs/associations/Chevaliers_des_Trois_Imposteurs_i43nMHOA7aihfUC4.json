@@ -3,18 +3,18 @@
   "type": "association",
   "img": "systems/dee/assets/default/icons/society.png",
   "system": {
-    "description": "<p>Fractious movement intent on bringing about Enlightenment in an Age of False Religions</p>",
+    "description": "<p>Moviment esquerp decidit a portar la Il·lustració en una Era de Falses Religions</p>",
     "abilities": [
       {
-        "name": "Antiquity",
+        "name": "Antiguitat",
         "type": "ability"
       },
       {
-        "name": "Commerce",
+        "name": "Comerç",
         "type": "ability"
       },
       {
-        "name": "Eloquence",
+        "name": "Eloqüència",
         "type": "ability"
       }
     ]

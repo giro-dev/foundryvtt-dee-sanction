@@ -1,8 +1,8 @@
 {
-  "name": "Glower",
+  "name": "Mirada torva",
   "type": "favour",
   "system": {
-    "description": "<p>Brood, Nightmare, Evil-eye.</p>"
+    "description": "<p>Rumiar, malson, mal d'ull.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

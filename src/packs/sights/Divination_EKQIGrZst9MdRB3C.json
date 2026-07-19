@@ -1,8 +1,8 @@
 {
-  "name": "Divination",
+  "name": "Divinació",
   "type": "favour",
   "system": {
-    "description": "<h2>Scrying</h2><p>Divination.</p>"
+    "description": "<h2>Escrutini</h2><p>Divinació.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

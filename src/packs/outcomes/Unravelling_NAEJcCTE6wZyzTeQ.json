@@ -1,11 +1,11 @@
 {
   "name": "Unravelling",
   "img": "icons/svg/d20-grey.svg",
-  "description": "Immediate effect when an agent falters on an unravelling die.",
+  "description": "Efecte immediat quan un agent vacil·la en un dau de desfer-se.",
   "results": [
     {
       "type": "text",
-      "text": "Phlegm: Immediate response is dulled senses; acts of perception or problem-solving are ▼1 while in the presence of fear source.",
+      "text": "Flegma: la resposta immediata són sentits embotats; els actes de percepció o de resolució de problemes són ▼1 mentre s'és en presència de la font de por.",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -36,7 +36,7 @@
     },
     {
       "type": "text",
-      "text": "Black Bile: Overwhelmed by extreme emotion. Eyes fill with tears, body wracked by sobbing. Take a Chance to complete any complex action in the presence of fear source.",
+      "text": "Bilis negra: aclaparat per una emoció extrema. Els ulls s'omplen de llàgrimes, el cos sacsejat pels sanglots. Arrisca't per completar qualsevol acció complexa en presència de la font de por.",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -67,7 +67,7 @@
     },
     {
       "type": "text",
-      "text": "Yellow Bile: Character fills with bitter rage toward all allies while in the presence of fear source. Take a Chance, act in a selfish way on a falter. Attitude persists in the presence of fear source.",
+      "text": "Bilis groga: el personatge s'omple d'una ràbia amarga cap a tots els aliats mentre s'és en presència de la font de por. Arrisca't; actua de manera egoista si vacil·les. L'actitud persisteix en presència de la font de por.",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -98,7 +98,7 @@
     },
     {
       "type": "text",
-      "text": "Blood: Inadvisably optimistic despite the horrors or the difficult situation faced. Blindly positive. Acts of violence or aggression are ▼1 while in the presence of fear source.",
+      "text": "Sang: optimista de manera imprudent malgrat els horrors o la situació difícil. Cegament positiu. Els actes de violència o agressió són ▼1 mentre s'és en presència de la font de por.",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [

@@ -1,20 +1,20 @@
 {
-  "name": "The Octagon Society",
+  "name": "La Societat de l'Octàgon",
   "type": "association",
   "img": "systems/dee/assets/default/icons/society.png",
   "system": {
-    "description": "<p>Splinter of the Knights Templar with a focus on attaining a balance in both mind and spirit as a route to a higher purpose or form</p>",
+    "description": "<p>Escissió dels Cavallers Templers centrada a assolir un equilibri de ment i esperit com a via cap a un propòsit o forma superior</p>",
     "abilities": [
       {
-        "name": "Phrenology",
+        "name": "Frenologia",
         "type": "ability"
       },
       {
-        "name": "Meditation",
+        "name": "Meditació",
         "type": "ability"
       },
       {
-        "name": "Sleight-of-Hand",
+        "name": "Jocs de mans",
         "type": "ability"
       }
     ]

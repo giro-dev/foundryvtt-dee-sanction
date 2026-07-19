@@ -1,8 +1,8 @@
 {
-  "name": "Padlock and Key",
+  "name": "Cadenat i clau",
   "type": "item",
   "system": {
-    "description": "<p>A padlock and key.</p>",
+    "description": "<p>Un cadenat i una clau.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

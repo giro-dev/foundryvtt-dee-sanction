@@ -1,9 +1,9 @@
 {
-  "name": "Despiteful",
+  "name": "Rancorós",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "unforgiving and driven to seek redress for any slight or wrong",
+    "description": "incapaç de perdonar i decidit a rescabalar-se de qualsevol ofensa o greuge",
     "resource": "int",
     "potency": -1
   },

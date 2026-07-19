@@ -1,8 +1,8 @@
 {
-  "name": "Overlook",
+  "name": "Passar per alt",
   "type": "favour",
   "system": {
-    "description": "<p>Blindside, Miscount, Omit.</p>"
+    "description": "<p>Sorprendre pel costat, comptar malament, ometre.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

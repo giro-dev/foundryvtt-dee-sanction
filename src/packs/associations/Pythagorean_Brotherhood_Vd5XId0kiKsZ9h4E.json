@@ -1,20 +1,20 @@
 {
-  "name": "Pythagorean Brotherhood",
+  "name": "Germandat Pitagòrica",
   "type": "association",
   "img": "systems/dee/assets/default/icons/society.png",
   "system": {
-    "description": "<p>Believers that understanding lies in the intersection ‘tween number and form</p>",
+    "description": "<p>Creients que la comprensió rau en la intersecció entre el nombre i la forma</p>",
     "abilities": [
       {
-        "name": "Numerology",
+        "name": "Numerologia",
         "type": "ability"
       },
       {
-        "name": "Geometry",
+        "name": "Geometria",
         "type": "ability"
       },
       {
-        "name": "Debate",
+        "name": "Debat",
         "type": "ability"
       }
     ]

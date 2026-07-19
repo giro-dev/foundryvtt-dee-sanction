@@ -1,8 +1,8 @@
 {
-  "name": "Tallow Candle",
+  "name": "Espelma de sèu",
   "type": "item",
   "system": {
-    "description": "<p>A tallow candle wrapped in canvas.</p>",
+    "description": "<p>Una espelma de sèu embolicada amb lona.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

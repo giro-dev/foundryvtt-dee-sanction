@@ -1,8 +1,8 @@
 {
-  "name": "Chain",
+  "name": "Cadena",
   "type": "item",
   "system": {
-    "description": "<p>A short length of chain.</p>",
+    "description": "<p>Un tros curt de cadena.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

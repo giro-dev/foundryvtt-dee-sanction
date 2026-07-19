@@ -1,8 +1,8 @@
 {
-  "name": "Treatise",
+  "name": "Tractat",
   "type": "item",
   "system": {
-    "description": "<p>Loose leaf from an edifying treatise.</p>",
+    "description": "<p>Full solt d'un tractat edificant.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

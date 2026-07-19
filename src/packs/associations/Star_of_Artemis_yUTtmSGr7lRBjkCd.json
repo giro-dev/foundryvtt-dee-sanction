@@ -1,20 +1,20 @@
 {
-  "name": "Star of Artemis",
+  "name": "Estel d'Àrtemis",
   "type": "association",
   "img": "systems/dee/assets/default/icons/society.png",
   "system": {
-    "description": "<p>Religion stems from layers of deceit; true faith has been mired in ancient propaganda</p>",
+    "description": "<p>La religió sorgeix de capes d'engany; la fe veritable ha quedat colgada per una antiga propaganda</p>",
     "abilities": [
       {
-        "name": "Mythology",
+        "name": "Mitologia",
         "type": "ability"
       },
       {
-        "name": "Archaeology",
+        "name": "Arqueologia",
         "type": "ability"
       },
       {
-        "name": "Flattery",
+        "name": "Adulació",
         "type": "ability"
       }
     ]

@@ -1,11 +1,11 @@
 {
   "name": "Out of Action Table",
   "img": "icons/svg/d20-grey.svg",
-  "description": "Rolled when an agent has zero hits but has been stabilised.",
+  "description": "Es tira quan un agent té zero impactes però ha estat estabilitzat.",
   "results": [
     {
       "type": "text",
-      "text": "Stunned: Numb, Raving.",
+      "text": "Atordit: Entumit, Delirant.",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -20,7 +20,7 @@
     },
     {
       "type": "text",
-      "text": "Senseless: Dazed, Fat-headed.",
+      "text": "Inconscient: Atordit, Espès.",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -35,7 +35,7 @@
     },
     {
       "type": "text",
-      "text": "Fragile: Shaking, Exhausted.",
+      "text": "Fràgil: Tremolós, Exhaust.",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -50,7 +50,7 @@
     },
     {
       "type": "text",
-      "text": "Overcome: Mute, Humiliated.",
+      "text": "Vençut: Mut, Humiliat.",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -65,7 +65,7 @@
     },
     {
       "type": "text",
-      "text": "Wasted: Unguarded, Fearful.",
+      "text": "Esgotat: Desprotegit, Temorós.",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -80,7 +80,7 @@
     },
     {
       "type": "text",
-      "text": "Blood-soaked: Gory, Oozing.",
+      "text": "Xop de sang: Sagnant, Supurant.",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [

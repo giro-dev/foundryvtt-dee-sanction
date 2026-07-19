@@ -1,11 +1,11 @@
 {
   "name": "Humour:Blood",
   "img": "icons/svg/d20-grey.svg",
-  "description": "Ongoing effect when an agent falters on an unravelling die.",
+  "description": "Efecte continu quan un agent vacil·la en un dau de desfer-se.",
   "results": [
     {
       "type": "document",
-      "text": "Foolish",
+      "text": "Insensat",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -21,7 +21,7 @@
     },
     {
       "type": "document",
-      "text": "Gullible",
+      "text": "Càndid",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -37,7 +37,7 @@
     },
     {
       "type": "document",
-      "text": "Capricious",
+      "text": "Capriciós",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [

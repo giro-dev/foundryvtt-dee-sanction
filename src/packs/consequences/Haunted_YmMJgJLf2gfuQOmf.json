@@ -1,9 +1,9 @@
 {
-  "name": "Haunted",
+  "name": "Turmentat",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "Haunted",
+    "description": "Turmentat",
     "resource": "sup",
     "potency": -1
   },

@@ -1,20 +1,20 @@
 {
-  "name": "Clerk of the Temple",
+  "name": "Escrivà del Temple",
   "type": "occupation",
   "img": "systems/dee/assets/default/icons/shilling.png",
   "system": {
-    "description": "<p>Close associate of those who practice the law, serving with a willing ear, a strong stomach and a tenacious head lock</p>",
+    "description": "<p>Col·laborador proper dels qui exerceixen la llei, servint amb bona orella, estómac fort i una tenaç clau de coll</p>",
     "abilities": [
       {
-        "name": "By-Laws and Loopholes",
+        "name": "Ordenances i escletxes",
         "type": "ability"
       },
       {
-        "name": "Grappling",
+        "name": "Forcejament",
         "type": "ability"
       },
       {
-        "name": "Carousing",
+        "name": "Gresca",
         "type": "ability"
       }
     ]

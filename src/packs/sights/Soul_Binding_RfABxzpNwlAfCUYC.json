@@ -1,8 +1,8 @@
 {
-  "name": "Soul Binding",
+  "name": "Lligam d'ànimes",
   "type": "favour",
   "system": {
-    "description": "<h2>Token Reading</h2><p>Soul Binding.</p>"
+    "description": "<h2>Lectura d'objectes</h2><p>Lligam d'ànimes.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

@@ -1,8 +1,8 @@
 {
-  "name": "Choke",
+  "name": "Ofegar",
   "type": "favour",
   "system": {
-    "description": "<p>Gasp, Clog, Stifle, Gag.</p>"
+    "description": "<p>Panteixar, obstruir, ofegar, arcada.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

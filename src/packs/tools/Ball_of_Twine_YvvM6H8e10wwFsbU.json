@@ -1,8 +1,8 @@
 {
-  "name": "Ball of Twine",
+  "name": "Cabdell de cordill",
   "type": "item",
   "system": {
-    "description": "<p>A ball of twine.</p>",
+    "description": "<p>Un cabdell de cordill.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

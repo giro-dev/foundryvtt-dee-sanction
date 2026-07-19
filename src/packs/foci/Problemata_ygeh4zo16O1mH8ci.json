@@ -2,16 +2,16 @@
   "name": "Problemata",
   "type": "focus",
   "system": {
-    "description": "<p>Annotated and dissected record of the mechanisms and devices constructed (or even theorised) by the Ancient Greeks</p>",
+    "description": "<p>Registre anotat i diseccionat dels mecanismes i artefactes construïts (o fins i tot teoritzats) pels antics grecs</p>",
     "abilities": [
       {
-        "name": "Construction",
+        "name": "Construcció",
         "type": "ability",
         "img": "systems/dee/assets/default/icons/book.png",
         "id": "DBFYkDcWAMxeU6Uj"
       },
       {
-        "name": "Mechanics",
+        "name": "Mecànica",
         "type": "ability",
         "img": "systems/dee/assets/default/icons/book.png",
         "id": "XJYMA1aZejwslb2d"

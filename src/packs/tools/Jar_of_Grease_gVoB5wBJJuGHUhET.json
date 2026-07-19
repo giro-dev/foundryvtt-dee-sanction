@@ -1,8 +1,8 @@
 {
-  "name": "Jar of Grease",
+  "name": "Pot de greix",
   "type": "item",
   "system": {
-    "description": "<p>A jar of foul-smelling grease.</p>",
+    "description": "<p>Un pot de greix pudent.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

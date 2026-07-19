@@ -1,8 +1,8 @@
 {
-  "name": "Wellbeing",
+  "name": "Benestar",
   "type": "favour",
   "system": {
-    "description": "<h2>Aura Reading</h2><p>Wellbeing.</p>"
+    "description": "<h2>Lectura d'aura</h2><p>Benestar.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

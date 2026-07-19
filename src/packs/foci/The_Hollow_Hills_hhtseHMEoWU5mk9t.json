@@ -1,17 +1,17 @@
 {
-  "name": "The Hollow Hills",
+  "name": "Els Turons Buits",
   "type": "focus",
   "system": {
-    "description": "<p>Theories and legends upon an inner world of lost people and forgotten knowledge</p>",
+    "description": "<p>Teories i llegendes sobre un món interior de pobles perduts i coneixements oblidats</p>",
     "abilities": [
       {
-        "name": "Astronomy",
+        "name": "Astronomia",
         "type": "ability",
         "img": "systems/dee/assets/default/icons/book.png",
         "id": "CNZSVkme1tZZd2p6"
       },
       {
-        "name": "Climbing",
+        "name": "Escalada",
         "type": "ability",
         "img": "systems/dee/assets/default/icons/book.png",
         "id": "3iFA5LkWDqUlQMLP"

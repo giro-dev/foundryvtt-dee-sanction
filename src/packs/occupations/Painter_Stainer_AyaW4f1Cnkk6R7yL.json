@@ -1,20 +1,20 @@
 {
-  "name": "Painter-Stainer",
+  "name": "Pintor decorador",
   "type": "occupation",
   "img": "systems/dee/assets/default/icons/shilling.png",
   "system": {
-    "description": "<p>Specialists in the decoration, colouring and gilding of buildings, furnishings, and other objects; of a Guild well known for disagreements and violent dispute</p>",
+    "description": "<p>Especialistes en la decoració, el pintat i el daurat d'edificis, mobiliari i altres objectes; d'un Gremi ben conegut per les disputes i les baralles violentes</p>",
     "abilities": [
       {
-        "name": "Painting",
+        "name": "Pintura",
         "type": "ability"
       },
       {
-        "name": "Decorate",
+        "name": "Decoració",
         "type": "ability"
       },
       {
-        "name": "Goading",
+        "name": "Instigació",
         "type": "ability"
       }
     ]

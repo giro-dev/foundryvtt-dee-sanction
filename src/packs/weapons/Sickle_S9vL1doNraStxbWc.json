@@ -1,8 +1,8 @@
 {
-  "name": "Sickle",
+  "name": "Falç",
   "type": "item",
   "system": {
-    "description": "<p>A small but sharp sickle.</p>",
+    "description": "<p>Una falç petita però esmolada.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

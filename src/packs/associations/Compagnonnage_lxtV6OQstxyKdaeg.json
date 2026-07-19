@@ -3,18 +3,18 @@
   "type": "association",
   "img": "systems/dee/assets/default/icons/society.png",
   "system": {
-    "description": "<p>Frustrated upstart craftfolk intent on bringing about a new order to unseat the Guilds and wider society</p>",
+    "description": "<p>Artesans frustrats i insurgents decidits a instaurar un nou ordre per desbancar els Gremis i la societat en general</p>",
     "abilities": [
       {
-        "name": "Hand Crafting",
+        "name": "Artesania",
         "type": "ability"
       },
       {
-        "name": "Devices",
+        "name": "Enginys",
         "type": "ability"
       },
       {
-        "name": "Bargaining",
+        "name": "Regateig",
         "type": "ability"
       }
     ]

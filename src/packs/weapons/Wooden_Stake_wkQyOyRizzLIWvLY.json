@@ -1,8 +1,8 @@
 {
-  "name": "Wooden Stake",
+  "name": "Estaca de fusta",
   "type": "item",
   "system": {
-    "description": "<p>A stake pared from green oak.</p>",
+    "description": "<p>Una estaca tallada de roure verd.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

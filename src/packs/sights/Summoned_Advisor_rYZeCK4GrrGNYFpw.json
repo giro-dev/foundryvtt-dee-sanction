@@ -1,8 +1,8 @@
 {
-  "name": "Summoned Advisor",
+  "name": "Conseller invocat",
   "type": "favour",
   "system": {
-    "description": "<h2>Scrying</h2><p>Summoned Advisor.</p>"
+    "description": "<h2>Escrutini</h2><p>Conseller invocat.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

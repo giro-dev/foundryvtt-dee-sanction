@@ -1,20 +1,20 @@
 {
-  "name": "Scavenger",
+  "name": "Escombriaire",
   "type": "occupation",
   "img": "systems/dee/assets/default/icons/shilling.png",
   "system": {
-    "description": "<p>An officer of the ward responsible for managing the handling and removal of domestic waste</p>",
+    "description": "<p>Un oficial del districte responsable de gestionar la recollida i l'eliminació de les deixalles domèstiques</p>",
     "abilities": [
       {
-        "name": "Carriage Handling",
+        "name": "Conducció de carruatges",
         "type": "ability"
       },
       {
-        "name": "Scavenging",
+        "name": "Espigolament",
         "type": "ability"
       },
       {
-        "name": "Night Working",
+        "name": "Treball nocturn",
         "type": "ability"
       }
     ]

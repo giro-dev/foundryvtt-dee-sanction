@@ -1,8 +1,8 @@
 {
-  "name": "Scent",
+  "name": "Olor",
   "type": "favour",
   "system": {
-    "description": "<p>Curious, Unexpected, Confusing, Freshen.</p>"
+    "description": "<p>Curiós, inesperat, confús, refrescant.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

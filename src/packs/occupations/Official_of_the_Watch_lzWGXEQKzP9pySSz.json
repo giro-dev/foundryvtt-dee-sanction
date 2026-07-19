@@ -1,20 +1,20 @@
 {
-  "name": "Official of the Watch",
+  "name": "Oficial de la Guàrdia",
   "type": "occupation",
   "img": "systems/dee/assets/default/icons/shilling.png",
   "system": {
-    "description": "<p>Thankless volunteer keepers of order tasked with bringing the wretched and the immoral to justice</p>",
+    "description": "<p>Ingrats voluntaris guardians de l'ordre encarregats de dur els miserables i els immorals davant la justícia</p>",
     "abilities": [
       {
-        "name": "Forgery",
+        "name": "Falsificació de documents",
         "type": "ability"
       },
       {
-        "name": "Gambling",
+        "name": "Joc d'atzar",
         "type": "ability"
       },
       {
-        "name": "Apprehend",
+        "name": "Detenció",
         "type": "ability"
       }
     ]

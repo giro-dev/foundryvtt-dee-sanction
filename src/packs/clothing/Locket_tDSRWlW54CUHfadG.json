@@ -1,8 +1,8 @@
 {
-  "name": "Locket",
+  "name": "Medalló",
   "type": "item",
   "system": {
-    "description": "<p>A small locket.</p>",
+    "description": "<p>Un petit medalló.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

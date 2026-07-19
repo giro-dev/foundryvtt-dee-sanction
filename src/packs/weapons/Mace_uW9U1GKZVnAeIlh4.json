@@ -1,8 +1,8 @@
 {
-  "name": "Mace",
+  "name": "Maça",
   "type": "item",
   "system": {
-    "description": "<p>A small-headed mace.</p>",
+    "description": "<p>Una maça de cap petit.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

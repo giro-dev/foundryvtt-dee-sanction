@@ -1,8 +1,8 @@
 {
-  "name": "Short Pole",
+  "name": "Perxa curta",
   "type": "item",
   "system": {
-    "description": "<p>A short wooden pole.</p>",
+    "description": "<p>Una perxa curta de fusta.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

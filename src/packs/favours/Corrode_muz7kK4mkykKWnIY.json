@@ -1,8 +1,8 @@
 {
-  "name": "Corrode",
+  "name": "Corroir",
   "type": "favour",
   "system": {
-    "description": "<p>Discolour, Dulled, Brittle.</p>"
+    "description": "<p>Descolorir, esmussar, tornar fràgil.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

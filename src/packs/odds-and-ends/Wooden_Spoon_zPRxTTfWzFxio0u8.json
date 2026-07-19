@@ -1,8 +1,8 @@
 {
-  "name": "Wooden Spoon",
+  "name": "Cullera de fusta",
   "type": "item",
   "system": {
-    "description": "<p>A small wooden spoon.</p>",
+    "description": "<p>Una petita cullera de fusta.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

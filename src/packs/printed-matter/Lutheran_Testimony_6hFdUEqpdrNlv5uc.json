@@ -1,8 +1,8 @@
 {
-  "name": "Lutheran Testimony",
+  "name": "Testimoni luterà",
   "type": "item",
   "system": {
-    "description": "<p>The 8th imprint of a Lutheran testimony.</p>",
+    "description": "<p>La 8a impressió d'un testimoni luterà.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

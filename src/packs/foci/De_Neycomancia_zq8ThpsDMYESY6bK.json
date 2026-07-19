@@ -2,16 +2,16 @@
   "name": "De Neycomancia",
   "type": "focus",
   "system": {
-    "description": "<p>Philosophy and practise upon the invocation of the dead and entities bound to the spirit realm.</p>",
+    "description": "<p>Filosofia i pràctica sobre la invocació dels morts i les entitats lligades al regne espiritual.</p>",
     "abilities": [
       {
-        "name": "Clairsentience",
+        "name": "Clarividència",
         "type": "ability",
         "img": "systems/dee/assets/default/icons/book.png",
         "id": "AtVI8F8uZMwJIy92"
       },
       {
-        "name": "Mediumship",
+        "name": "Mediumnitat",
         "type": "ability",
         "img": "systems/dee/assets/default/icons/book.png",
         "id": "pabaTb4o3HEN30xt"

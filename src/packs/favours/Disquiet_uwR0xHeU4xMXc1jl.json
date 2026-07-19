@@ -1,8 +1,8 @@
 {
-  "name": "Disquiet",
+  "name": "Neguit",
   "type": "favour",
   "system": {
-    "description": "<p>Botch, Distrust, Unsettle.</p>"
+    "description": "<p>Espatllar, desconfiar, inquietar.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

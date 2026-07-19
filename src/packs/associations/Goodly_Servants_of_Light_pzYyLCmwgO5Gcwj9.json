@@ -1,20 +1,20 @@
 {
-  "name": "Goodly Servants of Light",
+  "name": "Bons Servents de la Llum",
   "type": "association",
   "img": "systems/dee/assets/default/icons/society.png",
   "system": {
-    "description": "<p>Belief in the prophetic focus served in the construction and scrutiny of monuments as a means to channel the wisdom of the Almighty</p>",
+    "description": "<p>Creença en el focus profètic que exerceixen la construcció i l'escrutini dels monuments com a mitjà per canalitzar la saviesa del Totpoderós</p>",
     "abilities": [
       {
-        "name": "Architecture",
+        "name": "Arquitectura",
         "type": "ability"
       },
       {
-        "name": "Orienteering",
+        "name": "Orientació",
         "type": "ability"
       },
       {
-        "name": "Ministration",
+        "name": "Ministeri",
         "type": "ability"
       }
     ]

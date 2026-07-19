@@ -1,8 +1,8 @@
 {
-  "name": "Fancy Hat",
+  "name": "Barret elegant",
   "type": "item",
   "system": {
-    "description": "<p>A very fine and impressive hat.</p>",
+    "description": "<p>Un barret molt fi i impressionant.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

@@ -1,8 +1,8 @@
 {
-  "name": "Clap",
+  "name": "Tro",
   "type": "favour",
   "system": {
-    "description": "<p>Roar, Rumble, Crash, Distract, Flinch.</p>"
+    "description": "<p>Rugir, retrunyir, esclatar, distreure, sobresaltar.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

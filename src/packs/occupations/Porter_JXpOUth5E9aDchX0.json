@@ -1,20 +1,20 @@
 {
-  "name": "Porter",
+  "name": "Camàlic",
   "type": "occupation",
   "img": "systems/dee/assets/default/icons/shilling.png",
   "system": {
-    "description": "<p>Like Atlas with the weight of the world upon their shoulders, they pack and prepare luggage for travellers of all standings</p>",
+    "description": "<p>Com Atlas amb el pes del món a les espatlles, empaqueten i preparen l'equipatge de viatgers de tota condició</p>",
     "abilities": [
       {
-        "name": "Observant",
+        "name": "Observador",
         "type": "ability"
       },
       {
-        "name": "Prepared",
+        "name": "Previsió",
         "type": "ability"
       },
       {
-        "name": "Negotiation",
+        "name": "Negociació",
         "type": "ability"
       }
     ]

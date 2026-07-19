@@ -1,20 +1,20 @@
 {
-  "name": "Artist",
+  "name": "Artista",
   "type": "occupation",
   "img": "systems/dee/assets/default/icons/shilling.png",
   "system": {
-    "description": "<p>Creator of emotive miniatures and decorative illuminations for varied patrons, ideally with deep pockets</p>",
+    "description": "<p>Creador de miniatures emotives i il·luminacions decoratives per a mecenes diversos, idealment de butxaca fonda</p>",
     "abilities": [
       {
-        "name": "Drawing",
+        "name": "Dibuix",
         "type": "ability"
       },
       {
-        "name": "Counterfeit",
+        "name": "Falsificació",
         "type": "ability"
       },
       {
-        "name": "Nostalgia",
+        "name": "Nostàlgia",
         "type": "ability"
       }
     ]

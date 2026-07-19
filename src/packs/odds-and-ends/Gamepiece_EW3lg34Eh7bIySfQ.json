@@ -1,8 +1,8 @@
 {
-  "name": "Gamepiece",
+  "name": "Peça de joc",
   "type": "item",
   "system": {
-    "description": "<p>A gamepiece.</p>",
+    "description": "<p>Una peça de joc.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

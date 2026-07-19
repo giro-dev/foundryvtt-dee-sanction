@@ -1,14 +1,14 @@
 {
   "name": "Sight Outcomes",
   "img": "icons/svg/d20-grey.svg",
-  "description": "GM table for the outcome of a Sight Proophecy",
+  "description": "Taula del DJ per al resultat d'una Profecia de la Visió",
   "formula": "((1d4 - 1) * 10) + 1d10",
   "replacement": true,
   "displayRoll": true,
   "results": [
     {
       "type": "text",
-      "text": "Permission/ Blockage",
+      "text": "Permís/ Bloqueig",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -23,7 +23,7 @@
     },
     {
       "type": "text",
-      "text": "Unity/Tension",
+      "text": "Unitat/Tensió",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -38,7 +38,7 @@
     },
     {
       "type": "text",
-      "text": "Friendship/Isolation",
+      "text": "Amistat/Aïllament",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -53,7 +53,7 @@
     },
     {
       "type": "text",
-      "text": "Awareness/ Disconnection",
+      "text": "Consciència/ Desconnexió",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -68,7 +68,7 @@
     },
     {
       "type": "text",
-      "text": "Acceptance/Loss",
+      "text": "Acceptació/Pèrdua",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -83,7 +83,7 @@
     },
     {
       "type": "text",
-      "text": "Family/Independence",
+      "text": "Família/Independència",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -98,7 +98,7 @@
     },
     {
       "type": "text",
-      "text": "Choices/Confusion",
+      "text": "Opcions/Confusió",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -113,7 +113,7 @@
     },
     {
       "type": "text",
-      "text": "Eclipse/Avoid",
+      "text": "Eclipsi/Evitació",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -128,7 +128,7 @@
     },
     {
       "type": "text",
-      "text": "Satisfaction/ Displeasure",
+      "text": "Satisfacció/ Descontentament",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -143,7 +143,7 @@
     },
     {
       "type": "text",
-      "text": "Fulfilment/ Frustration",
+      "text": "Realització/ Frustració",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -158,7 +158,7 @@
     },
     {
       "type": "text",
-      "text": "Clarity/Chaos",
+      "text": "Claredat/Caos",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -173,7 +173,7 @@
     },
     {
       "type": "text",
-      "text": "Decisiveness/ Confusion",
+      "text": "Determinació/ Confusió",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -188,7 +188,7 @@
     },
     {
       "type": "text",
-      "text": "Foregiveness/ Suffering",
+      "text": "Perdó/ Patiment",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -203,7 +203,7 @@
     },
     {
       "type": "text",
-      "text": "Rest/Exhaustion",
+      "text": "Descans/Esgotament",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -218,7 +218,7 @@
     },
     {
       "type": "text",
-      "text": "Ambition/ Resentment",
+      "text": "Ambició/ Ressentiment",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -233,7 +233,7 @@
     },
     {
       "type": "text",
-      "text": "Transition/ Hesitation",
+      "text": "Transició/ Vacil·lació",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -248,7 +248,7 @@
     },
     {
       "type": "text",
-      "text": "Honesty/Deception",
+      "text": "Honestedat/Engany",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -263,7 +263,7 @@
     },
     {
       "type": "text",
-      "text": "Freedom/Capture",
+      "text": "Llibertat/Captura",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -278,7 +278,7 @@
     },
     {
       "type": "text",
-      "text": "Hope/Despair",
+      "text": "Esperança/Desesperança",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -293,7 +293,7 @@
     },
     {
       "type": "text",
-      "text": "Escape/Inevitability",
+      "text": "Fugida/Inevitabilitat",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -308,7 +308,7 @@
     },
     {
       "type": "text",
-      "text": "Opportunity/Forgo",
+      "text": "Oportunitat/Renúncia",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -323,7 +323,7 @@
     },
     {
       "type": "text",
-      "text": "Coping/Overwhelm",
+      "text": "Afrontament/Aclaparament",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -338,7 +338,7 @@
     },
     {
       "type": "text",
-      "text": "Teamwork/Discord",
+      "text": "Treball en equip/Discòrdia",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -353,7 +353,7 @@
     },
     {
       "type": "text",
-      "text": "Frugality/ Recklessness",
+      "text": "Frugalitat/ Imprudència",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -368,7 +368,7 @@
     },
     {
       "type": "text",
-      "text": "Security/Poverty",
+      "text": "Seguretat/Pobresa",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -383,7 +383,7 @@
     },
     {
       "type": "text",
-      "text": "Charity/Extortion",
+      "text": "Caritat/Extorsió",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -398,7 +398,7 @@
     },
     {
       "type": "text",
-      "text": "Perseverance/ Discouragement",
+      "text": "Perseverança/ Descoratjament",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -413,7 +413,7 @@
     },
     {
       "type": "text",
-      "text": "Inspiration/ Despondency",
+      "text": "Inspiració/ Abatiment",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -428,7 +428,7 @@
     },
     {
       "type": "text",
-      "text": "Reward/Punishment",
+      "text": "Recompensa/Càstig",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -443,7 +443,7 @@
     },
     {
       "type": "text",
-      "text": "Resourceful/ Feckless",
+      "text": "Enginyós/ Inútil",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -458,7 +458,7 @@
     },
     {
       "type": "text",
-      "text": "Resilience/ Listlessness",
+      "text": "Resiliència/ Apatia",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -473,7 +473,7 @@
     },
     {
       "type": "text",
-      "text": "Planned/Unready",
+      "text": "Planificat/Desprevingut",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -488,7 +488,7 @@
     },
     {
       "type": "text",
-      "text": "Progress/Hindrance",
+      "text": "Progrés/Obstacle",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -503,7 +503,7 @@
     },
     {
       "type": "text",
-      "text": "Community/ Disagreement",
+      "text": "Comunitat/ Desacord",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -518,7 +518,7 @@
     },
     {
       "type": "text",
-      "text": "Cooperation/ Competition",
+      "text": "Cooperació/ Competència",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -533,7 +533,7 @@
     },
     {
       "type": "text",
-      "text": "Conquest/ Subservience",
+      "text": "Conquesta/ Submissió",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -548,7 +548,7 @@
     },
     {
       "type": "text",
-      "text": "Confidence/ Insecurity",
+      "text": "Confiança/ Inseguretat",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -563,7 +563,7 @@
     },
     {
       "type": "text",
-      "text": "Further/Curtail",
+      "text": "Avançar/Retallar",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -578,7 +578,7 @@
     },
     {
       "type": "text",
-      "text": "Invigorate/Enfeeble",
+      "text": "Vigoritzar/Afeblir",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -593,7 +593,7 @@
     },
     {
       "type": "text",
-      "text": "Accomplish/Burden",
+      "text": "Assolir/Càrrega",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",

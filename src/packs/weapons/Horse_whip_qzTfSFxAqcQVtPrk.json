@@ -1,8 +1,8 @@
 {
-  "name": "Horse whip",
+  "name": "Fuet",
   "type": "item",
   "system": {
-    "description": "<p>Vicious in the right hands.</p>",
+    "description": "<p>Terrible en les mans adequades.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

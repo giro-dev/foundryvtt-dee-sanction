@@ -1,17 +1,17 @@
 {
-  "name": "The Voynich Manuscript",
+  "name": "El Manuscrit Voynich",
   "type": "focus",
   "system": {
-    "description": "<p>Impenetrable occult catalogue, filled with an unknown alphabet; peppered with strange imagery, understanding demands time and focus</p>",
+    "description": "<p>Catàleg ocult impenetrable, ple d'un alfabet desconegut; esquitxat d'imatges estranyes, comprendre'l demana temps i concentració</p>",
     "abilities": [
       {
-        "name": "Astrology",
+        "name": "Astrologia",
         "type": "ability",
         "img": "systems/dee/assets/default/icons/book.png",
         "id": "DpGZrTIZvaR0pCjW"
       },
       {
-        "name": "Recreation",
+        "name": "Esbarjo",
         "type": "ability",
         "img": "systems/dee/assets/default/icons/book.png",
         "id": "orbPyk6UAntDJapB"

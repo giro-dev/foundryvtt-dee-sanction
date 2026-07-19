@@ -1,9 +1,9 @@
 {
-  "name": "Cuirass",
+  "name": "Cuirassa",
   "type": "item",
   "img": "systems/dee/assets/default/icons/kit.png",
   "system": {
-    "description": "A sturdy breastplate.",
+    "description": "Un pitral robust.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false,

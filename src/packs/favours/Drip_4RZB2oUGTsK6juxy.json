@@ -1,8 +1,8 @@
 {
-  "name": "Drip",
+  "name": "Degotar",
   "type": "favour",
   "system": {
-    "description": "<p>Trickle, Leak, Perplex.</p>"
+    "description": "<p>Rajar, degotar, desconcertar.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

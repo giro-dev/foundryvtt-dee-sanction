@@ -1,8 +1,8 @@
 {
-  "name": "Thump",
+  "name": "Cop sord",
   "type": "favour",
   "system": {
-    "description": "<p>Shock, Bruise, Slap, Pulp.</p>"
+    "description": "<p>Colpir, contusionar, bufetejar, aixafar.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

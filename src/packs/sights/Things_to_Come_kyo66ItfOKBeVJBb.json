@@ -1,8 +1,8 @@
 {
-  "name": "Things to Come",
+  "name": "El que ha de venir",
   "type": "favour",
   "system": {
-    "description": "<h2>Prophecy</h2><p>Things to Come.</p>"
+    "description": "<h2>Profecia</h2><p>El que ha de venir.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

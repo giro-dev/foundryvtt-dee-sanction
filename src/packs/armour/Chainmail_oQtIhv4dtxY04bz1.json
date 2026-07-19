@@ -1,9 +1,9 @@
 {
-  "name": "Chainmail",
+  "name": "Cota de malla",
   "type": "item",
   "img": "systems/dee/assets/default/icons/kit.png",
   "system": {
-    "description": "A coat of chainmail.",
+    "description": "Una cota de malla.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false,

@@ -1,8 +1,8 @@
 {
-  "name": "Cutlass",
+  "name": "Sabre d'abordatge",
   "type": "item",
   "system": {
-    "description": "<p>A well-notched cutlass.</p>",
+    "description": "<p>Un sabre d'abordatge ben escantellat.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

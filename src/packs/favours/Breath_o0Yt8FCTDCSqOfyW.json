@@ -1,8 +1,8 @@
 {
-  "name": "Breath",
+  "name": "Alè",
   "type": "favour",
   "system": {
-    "description": "<p>Measured, Steady, Controlled, Held.</p>"
+    "description": "<p>Mesurat, constant, controlat, contingut.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,
