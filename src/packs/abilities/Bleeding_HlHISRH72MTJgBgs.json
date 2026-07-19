@@ -1,8 +1,8 @@
 {
-  "name": "Bleeding",
+  "name": "Sagnia",
   "type": "ability",
   "system": {
-    "description": "<p>Bleeding.</p>"
+    "description": "<p>Sagnia.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

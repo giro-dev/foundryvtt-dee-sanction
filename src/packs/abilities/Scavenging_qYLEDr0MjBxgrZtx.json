@@ -1,8 +1,8 @@
 {
-  "name": "Scavenging",
+  "name": "Espigolament",
   "type": "ability",
   "system": {
-    "description": "<p>Scavenging.</p>"
+    "description": "<p>Espigolament.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

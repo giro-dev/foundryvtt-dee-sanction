@@ -1,8 +1,8 @@
 {
-  "name": "Geometry",
+  "name": "Geometria",
   "type": "ability",
   "system": {
-    "description": "<p>Geometry - angles & lines; the study of shapes and forms as precursor to greater knowledge.</p>"
+    "description": "<p>Geometria - angles i línies; l'estudi de les formes com a preludi d'un coneixement més gran.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

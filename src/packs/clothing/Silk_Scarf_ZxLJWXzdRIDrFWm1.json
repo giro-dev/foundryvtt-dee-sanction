@@ -1,8 +1,8 @@
 {
-  "name": "Silk Scarf",
+  "name": "Fulard de seda",
   "type": "item",
   "system": {
-    "description": "<p>A scarf of silk.</p>",
+    "description": "<p>Un fulard de seda.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

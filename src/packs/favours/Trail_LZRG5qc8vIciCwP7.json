@@ -1,8 +1,8 @@
 {
-  "name": "Trail",
+  "name": "Rastre",
   "type": "favour",
   "system": {
-    "description": "<p>Tracks, Muddy, Mire, Distort.</p>"
+    "description": "<p>Petjades, enfangar, atzucac, distorsionar.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

@@ -1,8 +1,8 @@
 {
-  "name": "Anatomy",
+  "name": "Anatomia",
   "type": "ability",
   "system": {
-    "description": "<p>Anatomy.</p>"
+    "description": "<p>Anatomia.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

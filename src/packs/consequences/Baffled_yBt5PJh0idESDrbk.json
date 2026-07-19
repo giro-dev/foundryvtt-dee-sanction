@@ -1,9 +1,9 @@
 {
-  "name": "Baffled",
+  "name": "Desconcertat",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "Dazed and confused.",
+    "description": "Atordit i confós.",
     "resource": "int",
     "potency": -1
   },

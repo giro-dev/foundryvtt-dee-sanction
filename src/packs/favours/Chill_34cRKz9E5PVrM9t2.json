@@ -1,8 +1,8 @@
 {
-  "name": "Chill",
+  "name": "Refredar",
   "type": "favour",
   "system": {
-    "description": "<p>Shiver, Preserve, Cool, Numb.</p>"
+    "description": "<p>Esgarrifar, conservar, refredar, endormiscar.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

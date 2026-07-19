@@ -1,8 +1,8 @@
 {
-  "name": "Recreation",
+  "name": "Esbarjo",
   "type": "ability",
   "system": {
-    "description": "<p>Recreation.</p>"
+    "description": "<p>Esbarjo.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

@@ -1,5 +1,5 @@
 {
-  "name": "O Fickle Fortune",
+  "name": "Oh, Fortuna Voluble",
   "type": "script",
   "img": "icons/svg/coins.svg",
   "command": "if (game.user.isGM) {\n  const rt1 = game.tables.find(t => t.name === 'Sight Outcomes');\n  const rt2 = game.tables.find(t => t.name === 'Sight Subject');\n  rt1.draw({rollMode:\"gmroll\"});\n  rt2.draw({rollMode:\"gmroll\"});\n}",

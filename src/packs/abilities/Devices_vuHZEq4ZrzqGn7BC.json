@@ -1,8 +1,8 @@
 {
-  "name": "Devices",
+  "name": "Enginys",
   "type": "ability",
   "system": {
-    "description": "<p>Devices.</p>"
+    "description": "<p>Enginys.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

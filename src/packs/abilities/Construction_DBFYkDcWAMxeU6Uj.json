@@ -1,8 +1,8 @@
 {
-  "name": "Construction",
+  "name": "Construcció",
   "type": "ability",
   "system": {
-    "description": "<p>Construction.</p>"
+    "description": "<p>Construcció.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

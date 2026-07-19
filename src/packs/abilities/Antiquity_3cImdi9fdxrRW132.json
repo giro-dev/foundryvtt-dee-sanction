@@ -1,8 +1,8 @@
 {
-  "name": "Antiquity",
+  "name": "Antiguitat",
   "type": "ability",
   "system": {
-    "description": "<p>Antiquity.</p>"
+    "description": "<p>Antiguitat.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

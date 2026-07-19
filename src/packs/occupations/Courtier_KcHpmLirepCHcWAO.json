@@ -1,20 +1,20 @@
 {
-  "name": "Courtier",
+  "name": "Cortesà",
   "type": "occupation",
   "img": "systems/dee/assets/default/icons/shilling.png",
   "system": {
-    "description": "<p>Watchful and ever mindful attendant on the periphery of the gatherings of Court</p>",
+    "description": "<p>Assistent atent i sempre vigilant a la perifèria de les reunions de la Cort</p>",
     "abilities": [
       {
-        "name": "Diplomacy",
+        "name": "Diplomàcia",
         "type": "ability"
       },
       {
-        "name": "Dance",
+        "name": "Dansa",
         "type": "ability"
       },
       {
-        "name": "Connoisseur",
+        "name": "Entès",
         "type": "ability"
       }
     ]

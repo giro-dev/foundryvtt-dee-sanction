@@ -1,8 +1,8 @@
 {
-  "name": "Gambling",
+  "name": "Joc d'atzar",
   "type": "ability",
   "system": {
-    "description": "<p>Gambling.</p>"
+    "description": "<p>Joc d'atzar.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

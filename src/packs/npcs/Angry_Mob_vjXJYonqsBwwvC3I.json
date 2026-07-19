@@ -1,5 +1,5 @@
 {
-  "name": "Angry Mob",
+  "name": "Torba enfurismada",
   "type": "enemy",
   "img": "systems/dee/assets/default/tokens/26.png",
   "system": {
@@ -10,7 +10,7 @@
       "first": false,
       "second": false
     },
-    "description": "<p>The mob is a bustling, frantic gathering of enemies. Half the time it&rsquo;s milling around considering whether to run away or not. The rest of the time it&rsquo;s poking with pitchforks, jostling and shoving. Overwhelm means the Mob can cause damage even if the Agents don&rsquo;t miss a beat. An average Agent would struggle to handle a Mob without assistance or good fortune.</p>",
+    "description": "<p>La torba és una gentada enfervorida i frenètica d'enemics. La meitat del temps fa voltes rondinant si val la pena fugir o no. La resta del temps punxa amb forques, empeny i esquitlla. L'aclaparament vol dir que la Torba pot causar dany fins i tot si els Agents no perden el ritme. Un Agent mitjà tindria dificultats per plantar cara a una Torba sense ajuda o bona fortuna.</p>",
     "resources": {
       "armour": {
         "value": 6

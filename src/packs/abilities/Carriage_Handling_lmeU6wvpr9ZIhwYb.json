@@ -1,8 +1,8 @@
 {
-  "name": "Carriage Handling",
+  "name": "Conducció de carruatges",
   "type": "ability",
   "system": {
-    "description": "<p>Carriage Handling.</p>"
+    "description": "<p>Conducció de carruatges.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

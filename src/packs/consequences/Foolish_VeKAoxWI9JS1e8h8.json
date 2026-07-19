@@ -1,9 +1,9 @@
 {
-  "name": "Foolish",
+  "name": "Insensat",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "recklessly courageous and bold, heedless of the potency or peril of a challenge.",
+    "description": "temeràriament valent i agosarat, sense parar esment a la potència o el perill d'un repte.",
     "resource": "int",
     "potency": -1
   },

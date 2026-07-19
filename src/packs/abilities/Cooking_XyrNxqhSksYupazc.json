@@ -1,8 +1,8 @@
 {
-  "name": "Cooking",
+  "name": "Cuina",
   "type": "ability",
   "system": {
-    "description": "<p>Cooking.</p>"
+    "description": "<p>Cuina.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

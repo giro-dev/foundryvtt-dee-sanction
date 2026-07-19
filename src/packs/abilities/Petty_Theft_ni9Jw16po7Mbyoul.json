@@ -1,8 +1,8 @@
 {
-  "name": "Petty Theft",
+  "name": "Furt",
   "type": "ability",
   "system": {
-    "description": "<p>Petty Theft.</p>"
+    "description": "<p>Furt.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

@@ -1,8 +1,8 @@
 {
-  "name": "Connoisseur",
+  "name": "Entès",
   "type": "ability",
   "system": {
-    "description": "<p>Connoisseur.</p>"
+    "description": "<p>Entès.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

@@ -1,8 +1,8 @@
 {
-  "name": "Swiss Dagger",
+  "name": "Daga suïssa",
   "type": "item",
   "system": {
-    "description": "<p>A Schweizerdolch acquired from a Landsknecht.</p>",
+    "description": "<p>Un Schweizerdolch adquirit a un Landsknecht.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

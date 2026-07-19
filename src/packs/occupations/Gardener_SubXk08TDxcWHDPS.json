@@ -1,20 +1,20 @@
 {
-  "name": "Gardener",
+  "name": "Jardiner",
   "type": "occupation",
   "img": "systems/dee/assets/default/icons/shilling.png",
   "system": {
-    "description": "<p>Hard-working keepers of small plots, in town and country, for flowers, vegetables and simples</p>",
+    "description": "<p>Treballadors incansables de petites parcel·les, a ciutat i camp, per a flors, verdures i plantes remeieres</p>",
     "abilities": [
       {
-        "name": "Foraging",
+        "name": "Recol·lecció",
         "type": "ability"
       },
       {
-        "name": "Labouring",
+        "name": "Treball manual",
         "type": "ability"
       },
       {
-        "name": "Beekeeping",
+        "name": "Apicultura",
         "type": "ability"
       }
     ]

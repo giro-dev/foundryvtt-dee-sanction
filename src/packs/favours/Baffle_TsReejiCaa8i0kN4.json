@@ -1,8 +1,8 @@
 {
-  "name": "Baffle",
+  "name": "Desconcertar",
   "type": "favour",
   "system": {
-    "description": "<p>Mystify, Annoy, Confuse, Distract.</p>"
+    "description": "<p>Mistificar, molestar, confondre, distreure.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

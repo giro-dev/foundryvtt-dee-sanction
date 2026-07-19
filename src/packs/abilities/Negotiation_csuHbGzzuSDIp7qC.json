@@ -1,8 +1,8 @@
 {
-  "name": "Negotiation",
+  "name": "Negociació",
   "type": "ability",
   "system": {
-    "description": "<p>Negotiation.</p>"
+    "description": "<p>Negociació.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

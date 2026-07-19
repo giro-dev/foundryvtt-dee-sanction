@@ -1,8 +1,8 @@
 {
-  "name": "Flattery",
+  "name": "Adulació",
   "type": "ability",
   "system": {
-    "description": "<p>Flattery.</p>"
+    "description": "<p>Adulació.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

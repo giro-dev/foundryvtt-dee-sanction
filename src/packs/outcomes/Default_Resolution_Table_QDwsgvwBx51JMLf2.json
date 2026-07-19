@@ -1,11 +1,11 @@
 {
   "name": "Default Resolution Table",
   "img": "icons/svg/d20-grey.svg",
-  "description": "Rolled when an agent falters in a challenge to attack or defend.",
+  "description": "Es tira quan un agent vacil·la en un repte per atacar o defensar.",
   "results": [
     {
       "type": "text",
-      "text": "Back Off: 0 Hits; Make distance.",
+      "text": "Recular: 0 Impactes; Pren distància.",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -20,7 +20,7 @@
     },
     {
       "type": "text",
-      "text": "Jab: 0 Hits, Bruised.",
+      "text": "Cop sec: 0 Impactes, Contusionat.",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -35,7 +35,7 @@
     },
     {
       "type": "text",
-      "text": "Graze: 0 Hit, Bloody.",
+      "text": "Refregada: 0 Impactes, Sagnant.",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -50,7 +50,7 @@
     },
     {
       "type": "text",
-      "text": "Solid Strike: 1 Hit.",
+      "text": "Cop sòlid: 1 Impacte.",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [

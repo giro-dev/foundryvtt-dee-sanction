@@ -1,20 +1,20 @@
 {
-  "name": "Unperson",
+  "name": "Ningú",
   "type": "occupation",
   "img": "systems/dee/assets/default/icons/shilling.png",
   "system": {
-    "description": "<p>Dweller of the streets, alleyways, lanes, and back roads, surviving hardship through a wealth of wit and wile</p>",
+    "description": "<p>Habitant dels carrers, carrerons, camins i viaranys, sobrevivint a les penúries gràcies a una gran dosi d'enginy i astúcia</p>",
     "abilities": [
       {
-        "name": "Burglary",
+        "name": "Robatori",
         "type": "ability"
       },
       {
-        "name": "Passage and Path",
+        "name": "Pas i camí",
         "type": "ability"
       },
       {
-        "name": "Street Smarts",
+        "name": "Astúcia de carrer",
         "type": "ability"
       }
     ]

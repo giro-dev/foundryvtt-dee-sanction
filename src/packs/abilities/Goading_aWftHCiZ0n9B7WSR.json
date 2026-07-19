@@ -1,8 +1,8 @@
 {
-  "name": "Goading",
+  "name": "Instigació",
   "type": "ability",
   "system": {
-    "description": "<p>Goading.</p>"
+    "description": "<p>Instigació.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

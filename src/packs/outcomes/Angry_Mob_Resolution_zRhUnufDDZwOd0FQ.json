@@ -1,11 +1,11 @@
 {
   "name": "Angry Mob Resolution",
   "img": "icons/svg/d20-grey.svg",
-  "description": "Angry Mob resolution table",
+  "description": "Taula de resolució de la Torba enfurismada",
   "results": [
     {
       "type": "text",
-      "text": "Run Away: 0 Hits; roll 1d12 minus harm sustained; if Falter, break and run",
+      "text": "Fugir: 0 Impactes; tira 1d12 menys el dany rebut; si Vacil·les, trenca files i corre",
       "weight": 1,
       "range": [
         1,
@@ -20,7 +20,7 @@
     },
     {
       "type": "text",
-      "text": "Confuse: 0 Hits; Dizzy",
+      "text": "Confondre: 0 Impactes; Marejat",
       "weight": 1,
       "range": [
         3,
@@ -35,7 +35,7 @@
     },
     {
       "type": "text",
-      "text": "Overrun: 1 Hit; Phy Ch., Falter: Fallen",
+      "text": "Arrossegar: 1 Impacte; Repte Fís., Vacil·lació: Caigut",
       "weight": 1,
       "range": [
         5,
@@ -50,7 +50,7 @@
     },
     {
       "type": "text",
-      "text": "Rally: 1 Hit; recover 1 Hit (4 people)",
+      "text": "Reagrupar: 1 Impacte; recupera 1 Impacte (4 persones)",
       "weight": 1,
       "range": [
         7,

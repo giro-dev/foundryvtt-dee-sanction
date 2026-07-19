@@ -1,20 +1,20 @@
 {
-  "name": "Horse Trader",
+  "name": "Tractant de cavalls",
   "type": "occupation",
   "img": "systems/dee/assets/default/icons/shilling.png",
   "system": {
-    "description": "<p>Trader in all manner of livestock; accused, by reputation, to play the game and perhaps pull the wool over unguarded eyes for a profit</p>",
+    "description": "<p>Comerciant de tota mena de bestiar; acusat, per reputació, de jugar-se-la i potser enganyar els ulls desprevinguts per treure'n profit</p>",
     "abilities": [
       {
-        "name": "Intimidation",
+        "name": "Intimidació",
         "type": "ability"
       },
       {
-        "name": "Probability",
+        "name": "Probabilitat",
         "type": "ability"
       },
       {
-        "name": "Animal Welfare",
+        "name": "Benestar animal",
         "type": "ability"
       }
     ]

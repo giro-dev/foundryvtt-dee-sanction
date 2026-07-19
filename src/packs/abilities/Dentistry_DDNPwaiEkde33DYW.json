@@ -1,8 +1,8 @@
 {
-  "name": "Dentistry",
+  "name": "Odontologia",
   "type": "ability",
   "system": {
-    "description": "<p>Dentistry.</p>"
+    "description": "<p>Odontologia.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

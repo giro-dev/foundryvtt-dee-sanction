@@ -1,8 +1,8 @@
 {
-  "name": "Apprehend",
+  "name": "Detenció",
   "type": "ability",
   "system": {
-    "description": "<p>Apprehend.</p>"
+    "description": "<p>Detenció.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

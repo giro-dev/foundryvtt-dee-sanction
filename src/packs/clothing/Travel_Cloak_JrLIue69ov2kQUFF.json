@@ -1,8 +1,8 @@
 {
-  "name": "Travel Cloak",
+  "name": "Capa de viatge",
   "type": "item",
   "system": {
-    "description": "<p>A long warm travel cloak.</p>",
+    "description": "<p>Una capa de viatge llarga i càlida.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

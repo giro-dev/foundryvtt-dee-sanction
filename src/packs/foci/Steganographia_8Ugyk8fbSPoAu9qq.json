@@ -2,16 +2,16 @@
   "name": "Steganographia",
   "type": "focus",
   "system": {
-    "description": "<p>Cryptographic guide hidden within a text on symbolic and ancient languages used for discourse with spirits and demons</p>",
+    "description": "<p>Guia criptogràfica amagada dins d'un text sobre llengües simbòliques i antigues emprades per dialogar amb esperits i dimonis</p>",
     "abilities": [
       {
-        "name": "Signs",
+        "name": "Signes",
         "type": "ability",
         "img": "systems/dee/assets/default/icons/book.png",
         "id": "NmmbmT0WiIbOH6wh"
       },
       {
-        "name": "Ciphers",
+        "name": "Xifres",
         "type": "ability",
         "img": "systems/dee/assets/default/icons/book.png",
         "id": "UupmrsDZBe59Q0jN"

@@ -1,8 +1,8 @@
 {
-  "name": "Architecture",
+  "name": "Arquitectura",
   "type": "ability",
   "system": {
-    "description": "<p>Architectural knowledge and experience.</p>"
+    "description": "<p>Coneixement i experiència arquitectònics.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

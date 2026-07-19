@@ -1,9 +1,9 @@
 {
-  "name": "Bleeding",
+  "name": "Sagnant",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "Bloody.",
+    "description": "Sagnant.",
     "resource": "phy",
     "potency": -1
   },

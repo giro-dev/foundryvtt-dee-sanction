@@ -1,8 +1,8 @@
 {
-  "name": "Numerology",
+  "name": "Numerologia",
   "type": "ability",
   "system": {
-    "description": "<p>Numerology.</p>"
+    "description": "<p>Numerologia.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

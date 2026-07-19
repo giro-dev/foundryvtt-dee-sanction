@@ -1,8 +1,8 @@
 {
-  "name": "Rot",
+  "name": "Podrir",
   "type": "favour",
   "system": {
-    "description": "<p>Spoil, Stink, Mould, Weaken.</p>"
+    "description": "<p>Fer malbé, pudir, florir-se, afeblir.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

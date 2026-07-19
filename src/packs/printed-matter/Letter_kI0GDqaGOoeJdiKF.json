@@ -1,8 +1,8 @@
 {
-  "name": "Letter",
+  "name": "Carta",
   "type": "item",
   "system": {
-    "description": "<p>A reproduction of a letter.</p>",
+    "description": "<p>Una reproducció d'una carta.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

@@ -1,8 +1,8 @@
 {
-  "name": "Wool Coat",
+  "name": "Abric de llana",
   "type": "item",
   "system": {
-    "description": "<p>A woolen coat.</p>",
+    "description": "<p>Un abric de llana.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

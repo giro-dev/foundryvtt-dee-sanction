@@ -1,9 +1,9 @@
 {
-  "name": "Afeared",
+  "name": "Espantat",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "prone to tip into panic and alarm at the smallest trigger.",
+    "description": "propens a caure en el pànic i l'alarma a la mínima provocació.",
     "resource": "sup",
     "potency": -1
   },

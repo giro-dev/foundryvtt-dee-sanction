@@ -1,8 +1,8 @@
 {
-  "name": "Danger Sense",
+  "name": "Sentit del perill",
   "type": "favour",
   "system": {
-    "description": "<h2>Prophecy</h2><p>Danger Sense.</p>"
+    "description": "<h2>Profecia</h2><p>Sentit del perill.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

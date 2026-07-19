@@ -1,9 +1,9 @@
 {
-  "name": "Broken bone",
+  "name": "Os trencat",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "Broken bone. Requires a doctor to remove.",
+    "description": "Os trencat. Cal un metge per reduir-lo.",
     "resource": "phy",
     "potency": -1
   },

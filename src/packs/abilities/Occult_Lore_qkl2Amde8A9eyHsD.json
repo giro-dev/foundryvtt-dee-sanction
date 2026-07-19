@@ -1,8 +1,8 @@
 {
-  "name": "Occult Lore",
+  "name": "Saber ocult",
   "type": "ability",
   "system": {
-    "description": "<p>Occult Lore.</p>"
+    "description": "<p>Saber ocult.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

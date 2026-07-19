@@ -1,8 +1,8 @@
 {
-  "name": "Loaded Dice",
+  "name": "Daus trucats",
   "type": "item",
   "system": {
-    "description": "<p>A pair of loaded dice.</p>",
+    "description": "<p>Un parell de daus trucats.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

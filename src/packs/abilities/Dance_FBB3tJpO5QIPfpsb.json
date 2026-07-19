@@ -1,8 +1,8 @@
 {
-  "name": "Dance",
+  "name": "Dansa",
   "type": "ability",
   "system": {
-    "description": "<p>Dance.</p>"
+    "description": "<p>Dansa.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

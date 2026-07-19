@@ -1,8 +1,8 @@
 {
-  "name": "Orienteering",
+  "name": "Orientació",
   "type": "ability",
   "system": {
-    "description": "<p>Capability in finding one's way.</p>"
+    "description": "<p>Capacitat per trobar el propi camí.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

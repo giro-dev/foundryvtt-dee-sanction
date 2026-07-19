@@ -2,7 +2,7 @@
   "name": "Temperament",
   "type": "favour",
   "system": {
-    "description": "<h2>Aura Reading</h2><p>Temperament.</p>"
+    "description": "<h2>Lectura d'aura</h2><p>Temperament.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

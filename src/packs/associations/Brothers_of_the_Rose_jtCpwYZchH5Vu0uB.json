@@ -1,20 +1,20 @@
 {
-  "name": "Brothers of the Rose",
+  "name": "Germans de la Rosa",
   "type": "association",
   "img": "systems/dee/assets/default/icons/society.png",
   "system": {
-    "description": "<p>Believers in esoteric truths of the past, seeking insight into nature, the universe and the spiritual realms</p>",
+    "description": "<p>Creients en veritats esotèriques del passat, que cerquen la comprensió de la natura, l'univers i els regnes espirituals</p>",
     "abilities": [
       {
-        "name": "Politics",
+        "name": "Política",
         "type": "ability"
       },
       {
-        "name": "Concealment",
+        "name": "Ocultació",
         "type": "ability"
       },
       {
-        "name": "Provocation",
+        "name": "Provocació",
         "type": "ability"
       }
     ]

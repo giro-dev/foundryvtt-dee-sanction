@@ -1,9 +1,9 @@
 {
-  "name": "Morion",
+  "name": "Morrió",
   "type": "item",
   "img": "systems/dee/assets/default/icons/kit.png",
   "system": {
-    "description": "An open helm, as favoured by the Spaniard.",
+    "description": "Un elm obert, com el que prefereixen els espanyols.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false,

@@ -1,8 +1,8 @@
 {
-  "name": "Fortune Telling",
+  "name": "Endevinació de la fortuna",
   "type": "favour",
   "system": {
-    "description": "<h2>Prophecy</h2><p>Fortune Telling.</p>"
+    "description": "<h2>Profecia</h2><p>Endevinació de la fortuna.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

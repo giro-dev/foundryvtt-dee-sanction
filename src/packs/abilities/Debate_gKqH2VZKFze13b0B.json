@@ -1,8 +1,8 @@
 {
-  "name": "Debate",
+  "name": "Debat",
   "type": "ability",
   "system": {
-    "description": "<p>Debate.</p>"
+    "description": "<p>Debat.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

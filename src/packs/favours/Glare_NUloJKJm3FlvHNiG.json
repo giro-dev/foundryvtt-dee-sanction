@@ -1,8 +1,8 @@
 {
-  "name": "Glare",
+  "name": "Enlluernar",
   "type": "favour",
   "system": {
-    "description": "<p>Blaze, Blind, Reflect.</p>"
+    "description": "<p>Flamejar, encegar, reflectir.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

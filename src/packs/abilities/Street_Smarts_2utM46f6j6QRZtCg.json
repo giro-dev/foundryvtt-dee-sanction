@@ -1,8 +1,8 @@
 {
-  "name": "Street Smarts",
+  "name": "Astúcia de carrer",
   "type": "ability",
   "system": {
-    "description": "<p>Street Smarts.</p>"
+    "description": "<p>Astúcia de carrer.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

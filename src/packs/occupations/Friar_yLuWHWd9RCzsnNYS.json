@@ -1,20 +1,20 @@
 {
-  "name": "Friar",
+  "name": "Frare",
   "type": "occupation",
   "img": "systems/dee/assets/default/icons/shilling.png",
   "system": {
-    "description": "<p>One of the scattered mendicants of a broken order, seeking support and goodwill from the generous and those seeking beneficence</p>",
+    "description": "<p>Un dels mendicants dispersos d'un orde trencat, cercant suport i bona voluntat dels generosos i dels qui busquen beneficència</p>",
     "abilities": [
       {
-        "name": "Begging",
+        "name": "Mendicitat",
         "type": "ability"
       },
       {
-        "name": "Quote and Verse",
+        "name": "Cites i versos",
         "type": "ability"
       },
       {
-        "name": "Gourmand",
+        "name": "Gurmet",
         "type": "ability"
       }
     ]

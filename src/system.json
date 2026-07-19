@@ -2,7 +2,7 @@
   "id": "dee",
   "title": "The Dee Sanction",
   "description": "The Dee Sanction system for FoundryVTT!",
-  "version": "6.0.1",
+  "version": "6.1.0",
   "compatibility": {
     "minimum": 13,
     "verified": "14"
@@ -143,6 +143,11 @@
       "lang": "en",
       "name": "English",
       "path": "lang/en.json"
+    },
+    {
+      "lang": "ca",
+      "name": "Català",
+      "path": "lang/ca.json"
     }
   ],
   "grid": {
@@ -165,8 +170,8 @@
     }
   },
   "primaryTokenAttribute": "hits",
-  "url": "https://github.com/chrisesharp/foundryvtt-dee-sanction",
-  "manifest": "https://raw.githubusercontent.com/chrisesharp/foundryvtt-dee-sanction/master/src/system.json",
-  "download": "https://raw.githubusercontent.com/chrisesharp/foundryvtt-dee-sanction/master/package/dee-v6.0.1.zip",
+  "url": "https://github.com/giro-dev/foundryvtt-dee-sanction",
+  "manifest": "https://github.com/giro-dev/foundryvtt-dee-sanction/releases/latest/download/system.json",
+  "download": "https://github.com/giro-dev/foundryvtt-dee-sanction/releases/download/v6.1.0/dee-v6.1.0.zip",
   "license": "LICENSE.txt"
 }

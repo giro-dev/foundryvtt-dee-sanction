@@ -1,8 +1,8 @@
 {
-  "name": "Forgery",
+  "name": "Falsificació de documents",
   "type": "ability",
   "system": {
-    "description": "<p>Forgery.</p>"
+    "description": "<p>Falsificació de documents.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

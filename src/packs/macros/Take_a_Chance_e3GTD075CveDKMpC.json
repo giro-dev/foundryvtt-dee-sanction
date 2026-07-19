@@ -1,8 +1,8 @@
 {
-  "name": "Take a Chance",
+  "name": "Arrisca't",
   "type": "script",
   "img": "icons/svg/coins.svg",
-  "command": "game.dee.DeeSanctionDice.sendRoll({\n  title: \"Take a Chance\",\n  formula: \"1d6\",\n  system: {\n    rollType:\"take-a-chance\",\n    actor: actor,\n    roll: {\n      type: \"above\",\n      target:4\n    }\n  }\n});",
+  "command": "game.dee.DeeSanctionDice.sendRoll({\n  title: \"Arrisca't\",\n  formula: \"1d6\",\n  system: {\n    rollType:\"take-a-chance\",\n    actor: actor,\n    roll: {\n      type: \"above\",\n      target:4\n    }\n  }\n});",
   "folder": null,
   "scope": "global",
   "flags": {

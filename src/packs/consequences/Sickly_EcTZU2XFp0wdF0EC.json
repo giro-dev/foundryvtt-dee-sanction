@@ -1,9 +1,9 @@
 {
-  "name": "Sickly",
+  "name": "Malaltís",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "trembling with an unshakeable chill; pale and drawn.",
+    "description": "tremolant amb una esgarrifança persistent; pàl·lid i demacrat.",
     "resource": "phy",
     "potency": -1
   },

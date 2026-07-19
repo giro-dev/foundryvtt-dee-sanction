@@ -1,8 +1,8 @@
 {
-  "name": "Shiver",
+  "name": "Esgarrifança",
   "type": "favour",
   "system": {
-    "description": "<p>Shudder, Shimmy, Uneasy, Shrivel.</p>"
+    "description": "<p>Estremir, tremolar, inquietar, arrugar.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

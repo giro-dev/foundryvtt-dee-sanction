@@ -1,8 +1,8 @@
 {
-  "name": "Part-song",
+  "name": "Cançó polifònica",
   "type": "item",
   "system": {
-    "description": "<p>Verse from a gloomy part-song.</p>",
+    "description": "<p>Un vers d'una ombrívola cançó polifònica.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

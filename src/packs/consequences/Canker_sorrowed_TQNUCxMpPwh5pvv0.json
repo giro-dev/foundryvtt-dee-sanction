@@ -1,9 +1,9 @@
 {
-  "name": "Canker-sorrowed",
+  "name": "Corcat de pena",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "afflicted with a sense of grief, struggling to see worth in self.",
+    "description": "afligit per un sentiment de dol, incapaç de veure cap valor en si mateix.",
     "resource": "int",
     "potency": -1
   },

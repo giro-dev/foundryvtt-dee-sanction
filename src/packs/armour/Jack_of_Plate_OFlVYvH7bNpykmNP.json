@@ -1,9 +1,9 @@
 {
-  "name": "Jack of Plate",
+  "name": "Jac de plaques",
   "type": "item",
   "img": "systems/dee/assets/default/icons/kit.png",
   "system": {
-    "description": "A jacket with small iron plates sewn into the lining.",
+    "description": "Una jaqueta amb petites plaques de ferro cosides a l'interior.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false,

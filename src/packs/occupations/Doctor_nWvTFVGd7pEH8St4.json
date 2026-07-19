@@ -3,18 +3,18 @@
   "type": "occupation",
   "img": "systems/dee/assets/default/icons/shilling.png",
   "system": {
-    "description": "<p>Assistant to one of the few chartered physicians who claim recognition for their depth of medical knowledge</p>",
+    "description": "<p>Ajudant d'un dels pocs metges titulats que reclamen reconeixement per la seva profunditat de coneixement mèdic</p>",
     "abilities": [
       {
-        "name": "Reassurance",
+        "name": "Reconfort",
         "type": "ability"
       },
       {
-        "name": "Anatomy",
+        "name": "Anatomia",
         "type": "ability"
       },
       {
-        "name": "Diagnosis",
+        "name": "Diagnòstic",
         "type": "ability"
       }
     ]

@@ -1,9 +1,9 @@
 {
-  "name": "Gullible",
+  "name": "Càndid",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "willing to believe or trust anyone without adequate evidence.",
+    "description": "disposat a creure o confiar en qualsevol sense proves suficients.",
     "resource": "int",
     "potency": -1
   },

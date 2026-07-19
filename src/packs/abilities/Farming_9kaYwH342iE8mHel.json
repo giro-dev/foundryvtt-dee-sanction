@@ -1,8 +1,8 @@
 {
-  "name": "Farming",
+  "name": "Agricultura",
   "type": "ability",
   "system": {
-    "description": "<p>Farming.</p>"
+    "description": "<p>Agricultura.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

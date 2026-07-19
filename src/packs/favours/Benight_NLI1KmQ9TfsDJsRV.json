@@ -1,8 +1,8 @@
 {
-  "name": "Benight",
+  "name": "Enfosquir",
   "type": "favour",
   "system": {
-    "description": "<p>Darken, Engulf, Overcast.</p>"
+    "description": "<p>Enfosquir, engolir, ennuvolar.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

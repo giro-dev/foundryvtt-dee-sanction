@@ -1,8 +1,8 @@
 {
-  "name": "Rumour",
+  "name": "Rumor",
   "type": "ability",
   "system": {
-    "description": "<p>Rumour.</p>"
+    "description": "<p>Rumor.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

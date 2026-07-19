@@ -1,8 +1,8 @@
 {
-  "name": "Glass Eye",
+  "name": "Ull de vidre",
   "type": "item",
   "system": {
-    "description": "<p>A glass eye.</p>",
+    "description": "<p>Un ull de vidre.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

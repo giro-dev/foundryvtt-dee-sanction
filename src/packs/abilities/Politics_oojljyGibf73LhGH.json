@@ -1,8 +1,8 @@
 {
-  "name": "Politics",
+  "name": "Política",
   "type": "ability",
   "system": {
-    "description": "<p>Politics.</p>"
+    "description": "<p>Política.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

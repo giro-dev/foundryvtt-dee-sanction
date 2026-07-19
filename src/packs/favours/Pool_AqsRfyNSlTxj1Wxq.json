@@ -1,8 +1,8 @@
 {
-  "name": "Pool",
+  "name": "Bassa",
   "type": "favour",
   "system": {
-    "description": "<p>Gather, Coalesce, Slide, Splosh.</p>"
+    "description": "<p>Aplegar, fusionar, lliscar, xipollejar.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

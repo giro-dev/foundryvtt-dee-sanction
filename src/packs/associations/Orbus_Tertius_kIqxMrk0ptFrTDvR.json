@@ -3,18 +3,18 @@
   "type": "association",
   "img": "systems/dee/assets/default/icons/society.png",
   "system": {
-    "description": "<p>Committed to gathering evidence of a hidden realm of perception that will allow transcendence to Mastery</p>",
+    "description": "<p>Compromesos a reunir proves d'un regne ocult de percepció que permetrà la transcendència cap a la Mestria</p>",
     "abilities": [
       {
-        "name": "Influence",
+        "name": "Influència",
         "type": "ability"
       },
       {
-        "name": "Petty Theft",
+        "name": "Furt",
         "type": "ability"
       },
       {
-        "name": "Herbology",
+        "name": "Herbologia",
         "type": "ability"
       }
     ]

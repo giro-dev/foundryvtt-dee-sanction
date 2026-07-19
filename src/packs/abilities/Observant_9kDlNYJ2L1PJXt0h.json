@@ -1,8 +1,8 @@
 {
-  "name": "Observant",
+  "name": "Observador",
   "type": "ability",
   "system": {
-    "description": "<p>Observant.</p>"
+    "description": "<p>Observador.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

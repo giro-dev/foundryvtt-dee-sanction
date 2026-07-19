@@ -1,9 +1,9 @@
 {
-  "name": "Buckler",
+  "name": "Broquer",
   "type": "item",
   "img": "systems/dee/assets/default/icons/kit.png",
   "system": {
-    "description": "A small buckler shield.",
+    "description": "Un petit escut broquer.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false,

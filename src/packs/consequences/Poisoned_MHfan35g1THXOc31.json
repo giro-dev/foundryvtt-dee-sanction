@@ -1,9 +1,9 @@
 {
-  "name": "Poisoned",
+  "name": "Enverinat",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "Poisoned. Requires an apothecary to remove.",
+    "description": "Enverinat. Cal un apotecari per guarir-lo.",
     "resource": "phy",
     "potency": -1
   },

@@ -1,20 +1,20 @@
 {
-  "name": "Waterman",
+  "name": "Barquer",
   "type": "occupation",
   "img": "systems/dee/assets/default/icons/shilling.png",
   "system": {
-    "description": "<p>Lewd-mouthed punters upon freshwater courses able to chart a safe course through accreted silt, discarded rubbish, and narrow channels</p>",
+    "description": "<p>Barquers de boca llenguda dels cursos d'aigua dolça, capaços de traçar un rumb segur entre el llot acumulat, les escombraries i els canals estrets</p>",
     "abilities": [
       {
-        "name": "Gossip",
+        "name": "Xafarderia",
         "type": "ability"
       },
       {
-        "name": "Navigation",
+        "name": "Navegació",
         "type": "ability"
       },
       {
-        "name": "Boating",
+        "name": "Navegació fluvial",
         "type": "ability"
       }
     ]

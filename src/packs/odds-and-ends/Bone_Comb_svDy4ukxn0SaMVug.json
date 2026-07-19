@@ -1,8 +1,8 @@
 {
-  "name": "Bone Comb",
+  "name": "Pinta d'os",
   "type": "item",
   "system": {
-    "description": "<p>A bone comb.</p>",
+    "description": "<p>Una pinta d'os.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

@@ -1,8 +1,8 @@
 {
-  "name": "Scorch",
+  "name": "Socarrar",
   "type": "favour",
   "system": {
-    "description": "<p>Burn, Sear, Char.</p>"
+    "description": "<p>Cremar, abrusar, carbonitzar.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

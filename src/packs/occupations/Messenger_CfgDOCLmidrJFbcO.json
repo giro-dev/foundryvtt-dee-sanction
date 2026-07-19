@@ -1,20 +1,20 @@
 {
-  "name": "Messenger",
+  "name": "Missatger",
   "type": "occupation",
   "img": "systems/dee/assets/default/icons/shilling.png",
   "system": {
-    "description": "<p>Second-fiddle diplomats burdened with the drudgery of carrying letters, papers, and commodious gratuities</p>",
+    "description": "<p>Diplomàtics de segona fila carregats amb la tasca feixuga de portar cartes, papers i propines abundants</p>",
     "abilities": [
       {
-        "name": "Rumour",
+        "name": "Rumor",
         "type": "ability"
       },
       {
-        "name": "Orienteering",
+        "name": "Orientació",
         "type": "ability"
       },
       {
-        "name": "Traversing",
+        "name": "Travessia",
         "type": "ability"
       }
     ]

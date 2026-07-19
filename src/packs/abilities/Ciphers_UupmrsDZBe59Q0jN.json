@@ -1,8 +1,8 @@
 {
-  "name": "Ciphers",
+  "name": "Xifres",
   "type": "ability",
   "system": {
-    "description": "<p>Ciphers.</p>"
+    "description": "<p>Xifres.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

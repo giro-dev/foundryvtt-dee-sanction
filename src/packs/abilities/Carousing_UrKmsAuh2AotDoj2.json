@@ -1,8 +1,8 @@
 {
-  "name": "Carousing",
+  "name": "Gresca",
   "type": "ability",
   "system": {
-    "description": "<p>Carousing - taverns are your natural territory; unguarded words flow in the presence of strong spirits</p>"
+    "description": "<p>Gresca - les tavernes són el teu territori natural; les paraules imprudents flueixen en presència de licors forts</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

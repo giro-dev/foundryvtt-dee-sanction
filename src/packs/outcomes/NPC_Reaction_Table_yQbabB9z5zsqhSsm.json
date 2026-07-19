@@ -1,11 +1,11 @@
 {
   "name": "NPC Reaction Table",
   "img": "icons/svg/d20-grey.svg",
-  "description": "Rolled when an agent has zero hits but has been stabilised.",
+  "description": "Es tira quan un agent té zero impactes però ha estat estabilitzat.",
   "results": [
     {
       "type": "text",
-      "text": "Flee: shy, scared, circumspect.",
+      "text": "Fugir: tímid, espantat, circumspecte.",
       "img": "systems/dee/assets/default/icons/access.png",
       "weight": 1,
       "range": [
@@ -20,7 +20,7 @@
     },
     {
       "type": "text",
-      "text": "Avoid: guilty, demoralised.",
+      "text": "Evitar: culpable, desmoralitzat.",
       "img": "systems/dee/assets/default/icons/access.png",
       "weight": 1,
       "range": [
@@ -35,7 +35,7 @@
     },
     {
       "type": "text",
-      "text": "Testing: wary, questioning.",
+      "text": "Provar: recelós, inquisitiu.",
       "img": "systems/dee/assets/default/icons/access.png",
       "weight": 1,
       "range": [
@@ -50,7 +50,7 @@
     },
     {
       "type": "text",
-      "text": "Quid Pro Quo: trade, gossip.",
+      "text": "Quid Pro Quo: comerç, xafarderia.",
       "img": "systems/dee/assets/default/icons/access.png",
       "weight": 1,
       "range": [
@@ -65,7 +65,7 @@
     },
     {
       "type": "text",
-      "text": "Neutral: indifferent, undecided.",
+      "text": "Neutral: indiferent, indecís.",
       "img": "systems/dee/assets/default/icons/access.png",
       "weight": 1,
       "range": [
@@ -80,7 +80,7 @@
     },
     {
       "type": "text",
-      "text": "Convert: subvert, persuade.",
+      "text": "Convertir: subvertir, persuadir.",
       "img": "systems/dee/assets/default/icons/access.png",
       "weight": 1,
       "range": [
@@ -95,7 +95,7 @@
     },
     {
       "type": "text",
-      "text": "Mischief: mislead, ill will.",
+      "text": "Malícia: enganyar, mala voluntat.",
       "img": "systems/dee/assets/default/icons/access.png",
       "weight": 1,
       "range": [
@@ -110,7 +110,7 @@
     },
     {
       "type": "text",
-      "text": "Rob: deprive, subdue, hinder.",
+      "text": "Robar: privar, sotmetre, obstaculitzar.",
       "img": "systems/dee/assets/default/icons/access.png",
       "weight": 1,
       "range": [
@@ -125,7 +125,7 @@
     },
     {
       "type": "text",
-      "text": "Hate: kill, destroy, sacrifice.",
+      "text": "Odiar: matar, destruir, sacrificar.",
       "img": "systems/dee/assets/default/icons/access.png",
       "weight": 1,
       "range": [

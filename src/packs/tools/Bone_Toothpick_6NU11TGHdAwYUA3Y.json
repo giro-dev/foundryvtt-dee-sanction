@@ -1,8 +1,8 @@
 {
-  "name": "Bone Toothpick",
+  "name": "Escuradents d'os",
   "type": "item",
   "system": {
-    "description": "<p>A bone toothpick.</p>",
+    "description": "<p>Un escuradents d'os.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

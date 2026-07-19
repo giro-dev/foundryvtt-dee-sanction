@@ -1,8 +1,8 @@
 {
-  "name": "Phrenology",
+  "name": "Frenologia",
   "type": "ability",
   "system": {
-    "description": "<p>Phrenology.</p>"
+    "description": "<p>Frenologia.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

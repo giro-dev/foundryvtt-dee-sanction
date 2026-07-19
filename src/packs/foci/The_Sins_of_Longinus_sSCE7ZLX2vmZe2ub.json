@@ -1,17 +1,17 @@
 {
-  "name": "The Sins of Longinus",
+  "name": "Els Pecats de Longí",
   "type": "focus",
   "system": {
-    "description": "<p>Discourse on the medieval legend around the final days of the Christ</p>",
+    "description": "<p>Discurs sobre la llegenda medieval al voltant dels darrers dies del Crist</p>",
     "abilities": [
       {
-        "name": "Blacksmithery",
+        "name": "Ferreria",
         "type": "ability",
         "img": "systems/dee/assets/default/icons/book.png",
         "id": "Jr2WvtD7SziA85yp"
       },
       {
-        "name": "Theology",
+        "name": "Teologia",
         "type": "ability",
         "img": "systems/dee/assets/default/icons/book.png",
         "id": "3NmWqxH3UsyGURu9"

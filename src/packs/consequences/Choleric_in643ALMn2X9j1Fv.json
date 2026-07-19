@@ -1,9 +1,9 @@
 {
-  "name": "Choleric",
+  "name": "Colèric",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "eager for conflict, with a simmering hostility toward everyone and everything",
+    "description": "àvid de conflicte, amb una hostilitat latent cap a tothom i cap a tot",
     "resource": "int",
     "potency": -1
   },

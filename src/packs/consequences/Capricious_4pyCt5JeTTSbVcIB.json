@@ -1,9 +1,9 @@
 {
-  "name": "Capricious",
+  "name": "Capriciós",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "given to sudden, unpredictable, and erratic change in focus.",
+    "description": "donat a canvis d'atenció sobtats, imprevisibles i erràtics.",
     "resource": "int",
     "potency": -1
   },

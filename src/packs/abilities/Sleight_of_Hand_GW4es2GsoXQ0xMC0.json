@@ -1,8 +1,8 @@
 {
-  "name": "Sleight-of-Hand",
+  "name": "Jocs de mans",
   "type": "ability",
   "system": {
-    "description": "<p>Sleight-of-Hand -  the art of distraction; non-magical trickery.</p>"
+    "description": "<p>Jocs de mans - l'art de la distracció; trucs no màgics.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

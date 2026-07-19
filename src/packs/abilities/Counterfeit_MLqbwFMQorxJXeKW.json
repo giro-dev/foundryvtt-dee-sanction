@@ -1,8 +1,8 @@
 {
-  "name": "Counterfeit",
+  "name": "Falsificació",
   "type": "ability",
   "system": {
-    "description": "<p>Counterfeit.</p>"
+    "description": "<p>Falsificació.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

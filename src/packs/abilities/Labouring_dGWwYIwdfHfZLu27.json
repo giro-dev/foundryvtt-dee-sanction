@@ -1,8 +1,8 @@
 {
-  "name": "Labouring",
+  "name": "Treball manual",
   "type": "ability",
   "system": {
-    "description": "<p>Labouring.</p>"
+    "description": "<p>Treball manual.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

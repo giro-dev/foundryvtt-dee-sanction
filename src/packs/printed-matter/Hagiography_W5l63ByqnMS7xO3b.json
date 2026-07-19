@@ -1,8 +1,8 @@
 {
-  "name": "Hagiography",
+  "name": "Hagiografia",
   "type": "item",
   "system": {
-    "description": "<p>A provocative hagiographic critique.</p>",
+    "description": "<p>Una crítica hagiogràfica provocadora.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

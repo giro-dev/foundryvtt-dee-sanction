@@ -1,8 +1,8 @@
 {
-  "name": "Concealment",
+  "name": "Ocultació",
   "type": "ability",
   "system": {
-    "description": "<p>Concealment - expertise in the business of hiding/finding things.</p>"
+    "description": "<p>Ocultació - experiència en l'art d'amagar o trobar coses.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

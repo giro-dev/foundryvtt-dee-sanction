@@ -1,8 +1,8 @@
 {
-  "name": "Dyeing",
+  "name": "Tenyit",
   "type": "ability",
   "system": {
-    "description": "<p>Dyeing.</p>"
+    "description": "<p>Tenyit.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

@@ -1,8 +1,8 @@
 {
-  "name": "Astrology",
+  "name": "Astrologia",
   "type": "ability",
   "system": {
-    "description": "<p>Astrology.</p>"
+    "description": "<p>Astrologia.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

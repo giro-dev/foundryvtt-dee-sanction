@@ -1,8 +1,8 @@
 {
-  "name": "Gasp",
+  "name": "Panteix",
   "type": "favour",
   "system": {
-    "description": "<p>Desperate, Sudden, Sharp Exhalation.</p>"
+    "description": "<p>Desesperat, sobtat, exhalació aguda.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

@@ -1,8 +1,8 @@
 {
-  "name": "Numbered Key",
+  "name": "Clau numerada",
   "type": "item",
   "system": {
-    "description": "<p>A numbered key.</p>",
+    "description": "<p>Una clau numerada.</p>",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

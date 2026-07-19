@@ -1,8 +1,8 @@
 {
-  "name": "Flurry",
+  "name": "Ràfega",
   "type": "favour",
   "system": {
-    "description": "<p>Cloak, Smother, Blind.</p>"
+    "description": "<p>Cobrir, sufocar, encegar.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

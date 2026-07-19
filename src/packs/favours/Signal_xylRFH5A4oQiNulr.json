@@ -1,8 +1,8 @@
 {
-  "name": "Signal",
+  "name": "Senyal",
   "type": "favour",
   "system": {
-    "description": "<p>Warn, Commune, Awaken, Flare.</p>"
+    "description": "<p>Avisar, comunicar, despertar, flamejar.</p>"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,
