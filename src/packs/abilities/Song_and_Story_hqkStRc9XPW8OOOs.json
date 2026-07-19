@@ -1,8 +1,8 @@
 {
-  "name": "Song and Story",
+  "name": "Cançó i relat",
   "type": "ability",
   "system": {
-    "description": "<p>Song and Story.</p>"
+    "description": "<p>Cançó i relat.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

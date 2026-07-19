@@ -1,8 +1,8 @@
 {
-  "name": "Barter",
+  "name": "Bescanvi",
   "type": "ability",
   "system": {
-    "description": "<p>Barter.</p>"
+    "description": "<p>Bescanvi.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

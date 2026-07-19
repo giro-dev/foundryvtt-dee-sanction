@@ -1,8 +1,8 @@
 {
-  "name": "Diagnosis",
+  "name": "Diagnòstic",
   "type": "ability",
   "system": {
-    "description": "<p>Diagnosis.</p>"
+    "description": "<p>Diagnòstic.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

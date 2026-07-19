@@ -1,8 +1,8 @@
 {
-  "name": "Prepared",
+  "name": "Previsió",
   "type": "ability",
   "system": {
-    "description": "<p>Prepared - the good sense to have packed well; small things when needed most.</p>"
+    "description": "<p>Previsió - el bon seny d'haver fet bé l'equipatge; petites coses quan més es necessiten.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

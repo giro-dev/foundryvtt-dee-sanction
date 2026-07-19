@@ -1,8 +1,8 @@
 {
-  "name": "Reworking",
+  "name": "Reelaboració",
   "type": "ability",
   "system": {
-    "description": "<p>Reworking.</p>"
+    "description": "<p>Reelaboració.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

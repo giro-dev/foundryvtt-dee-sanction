@@ -1,8 +1,8 @@
 {
-  "name": "Quieten the Common Beast",
+  "name": "Calmar la bèstia",
   "type": "ability",
   "system": {
-    "description": "<p>Quieten the Common Beast.</p>"
+    "description": "<p>Calmar la bèstia.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

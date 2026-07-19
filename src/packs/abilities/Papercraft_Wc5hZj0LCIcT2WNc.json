@@ -1,8 +1,8 @@
 {
-  "name": "Papercraft",
+  "name": "Treballs de paper",
   "type": "ability",
   "system": {
-    "description": "<p>Papercraft.</p>"
+    "description": "<p>Treballs de paper.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

@@ -1,8 +1,8 @@
 {
-  "name": "Bluffing",
+  "name": "Fanfarroneig",
   "type": "ability",
   "system": {
-    "description": "<p>Bluffing - the capacity to mislead or divert the judgement of others.</p>"
+    "description": "<p>Fanfarroneig - la capacitat d'enganyar o desviar el judici dels altres.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

@@ -1,8 +1,8 @@
 {
-  "name": "Night Working",
+  "name": "Treball nocturn",
   "type": "ability",
   "system": {
-    "description": "<p>Night Working.</p>"
+    "description": "<p>Treball nocturn.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

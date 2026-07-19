@@ -1,8 +1,8 @@
 {
-  "name": "Acrobatics",
+  "name": "Acrobàcia",
   "type": "ability",
   "system": {
-    "description": "<p>Acrobatics.</p>"
+    "description": "<p>Acrobàcia.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

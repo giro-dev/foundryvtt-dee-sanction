@@ -1,8 +1,8 @@
 {
-  "name": "Grappling",
+  "name": "Forcejament",
   "type": "ability",
   "system": {
-    "description": "<p>Grappling.</p>"
+    "description": "<p>Forcejament.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

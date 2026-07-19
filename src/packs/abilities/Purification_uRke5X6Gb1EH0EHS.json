@@ -1,8 +1,8 @@
 {
-  "name": "Purification",
+  "name": "Purificació",
   "type": "ability",
   "system": {
-    "description": "<p>Purification.</p>"
+    "description": "<p>Purificació.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

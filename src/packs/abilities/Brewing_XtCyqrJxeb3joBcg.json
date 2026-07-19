@@ -1,8 +1,8 @@
 {
-  "name": "Brewing",
+  "name": "Elaboració de cervesa",
   "type": "ability",
   "system": {
-    "description": "<p>Brewing.</p>"
+    "description": "<p>Elaboració de cervesa.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

@@ -1,8 +1,8 @@
 {
-  "name": "Probability",
+  "name": "Probabilitat",
   "type": "ability",
   "system": {
-    "description": "<p>Probability.</p>"
+    "description": "<p>Probabilitat.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

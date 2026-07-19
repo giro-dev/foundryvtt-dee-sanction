@@ -1,8 +1,8 @@
 {
-  "name": "Anthropology",
+  "name": "Antropologia",
   "type": "ability",
   "system": {
-    "description": "<p>Anthropology.</p>"
+    "description": "<p>Antropologia.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

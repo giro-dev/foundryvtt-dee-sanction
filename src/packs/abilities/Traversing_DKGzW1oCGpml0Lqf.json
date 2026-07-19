@@ -1,8 +1,8 @@
 {
-  "name": "Traversing",
+  "name": "Travessia",
   "type": "ability",
   "system": {
-    "description": "<p>Traversing.</p>"
+    "description": "<p>Travessia.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

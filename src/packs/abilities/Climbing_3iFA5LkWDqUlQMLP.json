@@ -1,8 +1,8 @@
 {
-  "name": "Climbing",
+  "name": "Escalada",
   "type": "ability",
   "system": {
-    "description": "<p>Climbing.</p>"
+    "description": "<p>Escalada.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

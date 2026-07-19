@@ -1,8 +1,8 @@
 {
-  "name": "Tomfoolery",
+  "name": "Bufonades",
   "type": "ability",
   "system": {
-    "description": "<p>Tomfoolery.</p>"
+    "description": "<p>Bufonades.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

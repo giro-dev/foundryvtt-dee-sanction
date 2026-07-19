@@ -1,8 +1,8 @@
 {
-  "name": "Infiltration",
+  "name": "Infiltració",
   "type": "ability",
   "system": {
-    "description": "<p>Infiltration - insignifance means you can go unnoticed in the midst of a gathering.</p>"
+    "description": "<p>Infiltració - la insignificança et permet passar desapercebut enmig d'una reunió.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

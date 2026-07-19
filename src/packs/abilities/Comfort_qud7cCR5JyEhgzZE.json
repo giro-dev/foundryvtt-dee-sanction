@@ -1,8 +1,8 @@
 {
-  "name": "Comfort",
+  "name": "Consol",
   "type": "ability",
   "system": {
-    "description": "<p>Comfort.</p>"
+    "description": "<p>Consol.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

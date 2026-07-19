@@ -1,8 +1,8 @@
 {
-  "name": "Clairsentience",
+  "name": "Clarividència",
   "type": "ability",
   "system": {
-    "description": "<p>Clairsentience.</p>"
+    "description": "<p>Clarividència.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

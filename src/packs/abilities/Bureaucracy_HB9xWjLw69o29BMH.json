@@ -1,8 +1,8 @@
 {
-  "name": "Bureaucracy",
+  "name": "Burocràcia",
   "type": "ability",
   "system": {
-    "description": "<p>Bureaucracy.</p>"
+    "description": "<p>Burocràcia.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

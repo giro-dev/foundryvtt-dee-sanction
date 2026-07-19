@@ -1,8 +1,8 @@
 {
-  "name": "Commerce",
+  "name": "Comerç",
   "type": "ability",
   "system": {
-    "description": "<p>Commerce.</p>"
+    "description": "<p>Comerç.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

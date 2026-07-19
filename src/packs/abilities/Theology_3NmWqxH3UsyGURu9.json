@@ -1,8 +1,8 @@
 {
-  "name": "Theology",
+  "name": "Teologia",
   "type": "ability",
   "system": {
-    "description": "<p>Theology.</p>"
+    "description": "<p>Teologia.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

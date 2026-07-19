@@ -1,8 +1,8 @@
 {
-  "name": "Beekeeping",
+  "name": "Apicultura",
   "type": "ability",
   "system": {
-    "description": "<p>Beekeeping.</p>"
+    "description": "<p>Apicultura.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

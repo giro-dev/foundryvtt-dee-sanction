@@ -1,8 +1,8 @@
 {
-  "name": "Names",
+  "name": "Noms",
   "type": "ability",
   "system": {
-    "description": "<p>Names.</p>"
+    "description": "<p>Noms.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

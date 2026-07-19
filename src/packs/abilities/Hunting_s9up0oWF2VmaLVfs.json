@@ -1,8 +1,8 @@
 {
-  "name": "Hunting",
+  "name": "Caça",
   "type": "ability",
   "system": {
-    "description": "<p>Hunting.</p>"
+    "description": "<p>Caça.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

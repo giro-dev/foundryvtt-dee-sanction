@@ -1,8 +1,8 @@
 {
-  "name": "Signs",
+  "name": "Signes",
   "type": "ability",
   "system": {
-    "description": "<p>Signs - You know the common marks and symbols left by others as tip-off or guidance.</p>"
+    "description": "<p>Signes - Coneixes les marques i els símbols habituals que deixen els altres com a avís o guia.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

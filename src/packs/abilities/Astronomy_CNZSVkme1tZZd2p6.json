@@ -1,8 +1,8 @@
 {
-  "name": "Astronomy",
+  "name": "Astronomia",
   "type": "ability",
   "system": {
-    "description": "<p>Astronomy.</p>"
+    "description": "<p>Astronomia.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

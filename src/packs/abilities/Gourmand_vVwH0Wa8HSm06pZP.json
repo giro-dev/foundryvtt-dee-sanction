@@ -1,8 +1,8 @@
 {
-  "name": "Gourmand",
+  "name": "Gurmet",
   "type": "ability",
   "system": {
-    "description": "<p>Gourmand.</p>"
+    "description": "<p>Gurmet.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,
